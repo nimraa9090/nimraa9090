@@ -22,11 +22,11 @@
 
 I'm an AI/Full Stack engineer building **[Goniaa](https://goniaapk.vercel.app/)**, a fashion e-commerce ecosystem I designed, built, and shipped solo — a public storefront, an AI-powered brand management dashboard, and a native mobile app, all in production with real users and real data.
 
-- 🎓 BS Artificial Intelligence @ Hazara University (Expected June 2027)
-- 🛠️ Currently building **Goniaa** end-to-end: storefront → AI ops dashboard → mobile app
-- 🧠 Comfortable across the stack: Next.js/TypeScript frontends, Supabase/Postgres backends, LLM-powered internal tools, and React Native mobile
-- 📈 Interested in applied ML, agentic tooling, and building products that actually ship — not just notebooks
-- 🌍 Open to remote roles with US/UK startups
+- BS Artificial Intelligence @ Hazara University (Expected June 2027)
+- Currently building **Goniaa** end-to-end: storefront → AI ops dashboard → mobile app
+- Comfortable across the stack: Next.js/TypeScript frontends, Supabase/Postgres backends, LLM-powered internal tools, and React Native mobile
+- Interested in applied ML, agentic tooling, and building products that actually ship — not just notebooks
+- Open to remote roles with US/UK startups
 
 ---
 
