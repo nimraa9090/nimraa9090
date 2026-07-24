@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm an AI/Full Stack engineer building **[Goniaa](https://goniaa.pk)**, a fashion e-commerce ecosystem I designed, built, and shipped solo — a public storefront, an AI-powered brand management dashboard, and a native mobile app, all in production with real users and real data.
+I'm an AI/Full Stack engineer building **[Goniaa](https://goniaapk.vercel.app/)**, a fashion e-commerce ecosystem I designed, built, and shipped solo — a public storefront, an AI-powered brand management dashboard, and a native mobile app, all in production with real users and real data.
 
 - 🎓 BS Artificial Intelligence @ Hazara University (Expected June 2027)
 - 🛠️ Currently building **Goniaa** end-to-end: storefront → AI ops dashboard → mobile app
@@ -74,23 +74,23 @@ I'm an AI/Full Stack engineer building **[Goniaa](https://goniaa.pk)**, a fashio
 
 ## Current Focus
 
-- 🚀 Shipping v2 of the **Goniaa AI Brand Manager** — an 11-tab operations dashboard that uses an LLM (Groq / Llama 3.3 70B) to help run a real e-commerce brand
-- 📱 Stabilizing the **Goniaa mobile app** (React Native + Expo SDK 54) ahead of a public release
-- 🧩 Studying applied system design — moving from "it works" to architecture that scales
-- 🎯 Preparing for AI/Full Stack internships and junior roles at product-focused startups
+-  Shipping v2 of the **Goniaa AI Brand Manager** — an 11-tab operations dashboard that uses an LLM (Groq / Llama 3.3 70B) to help run a real e-commerce brand
+-  Stabilizing the **Goniaa mobile app** (React Native + Expo SDK 54) ahead of a public release
+-  Studying applied system design — moving from "it works" to architecture that scales
+-  Preparing for AI/Full Stack internships and junior roles at product-focused startups
 
 ---
 
 ## Featured Projects
 
-### 🛍️ Goniaa — AI-Powered Fashion E-Commerce Ecosystem
+### Goniaa — AI-Powered Fashion E-Commerce Ecosystem
 **Founder & Solo Developer** · Live in production
 
 A full ecosystem, not a demo: a public storefront customers actually buy from, an internal AI-driven dashboard that runs the brand's operations, and a companion mobile app — architected, built, and shipped end-to-end by one person.
 
 | | |
 |---|---|
-| **Storefront** | Next.js 15 storefront on Vercel — [goniaa.pk](https://goniaa.pk) |
+| **Storefront** | Next.js 15 storefront on Vercel — [goniaa.pk](https://goniaapk.vercel.app/) |
 | **AI Brand Manager** | 11-tab internal dashboard (analytics, inventory, content, ops) powered by the Groq API (Llama 3.3 70B) for AI-assisted decision-making |
 | **Mobile App** | React Native (Expo SDK 54) companion app |
 | **Data Layer** | Supabase (Postgres, Auth, Storage) |
@@ -101,19 +101,19 @@ A full ecosystem, not a demo: a public storefront customers actually buy from, a
 - Root-caused a recurring `CSSStyleDeclaration` crash traced to JSX spread operators in style props, and eliminated it by refactoring to reusable styled components
 - Fixed Supabase auth misconfiguration and replaced deprecated dependencies to unblock the build
 
-**[Live Site](https://goniaa.pk)** · **[Dashboard Demo Video](#)** · **[Mobile APK](#)** · **[Case Study Repo](https://github.com/nimraa9090/goniaa-ecosystem)**
+**[Live Site](https://goniaapk.vercel.app/)** · **[Dashboard Demo Video](#)** · **[Mobile APK](#)** · **[Case Study Repo](https://github.com/nimraa9090/goniaa-ecosystem)**
 
 ---
 
-### 🧬 Medical Image Classification — Blood Smear Analysis (CNNs + XAI)
+### Medical Image Classification — Blood Smear Analysis (CNNs + XAI)
 Deep learning pipeline classifying red blood cell abnormalities on the AneRBC dataset. Benchmarked custom CNNs against transfer learning (MobileNetV2, ResNet18, DenseNet121), reaching **82.7%** accuracy with DenseNet121, and added Grad-CAM explainability to visualize model decisions.
 
 **Stack:** PyTorch · Transfer Learning · Grad-CAM
-**[Repo →](https://github.com/nimraa9090/ANN-DL-PRJ)**
+**[Repo →](https://github.com/nimraa9090/Annemia-dignoses-system)**
 
 ---
 
-### 🤖 Reinforcement Learning Suite
+###  Reinforcement Learning Suite
 DQN and tabular Q-learning agents trained on classic control environments (CartPole, Lunar Lander, FrozenLake), covering exploration strategies, reward shaping, and convergence analysis.
 
 **Stack:** Python · PyTorch/Gymnasium
@@ -121,7 +121,7 @@ DQN and tabular Q-learning agents trained on classic control environments (CartP
 
 ---
 
-### 📰 NLP Toolkit — Fake News & Spam Detection, Summarization
+### NLP Toolkit — Fake News & Spam Detection, Summarization
 A set of NLP models covering classification (fake news, spam) and text summarization, built to compare classical ML pipelines against transformer-based approaches.
 
 **Stack:** Python · scikit-learn · NLP
