@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-goniaa.pk-0F172A?style=flat-square)](https://goniaapk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-goniaa.pk-0F172A?style=flat-square)](https://nimra-portfolio-beta.vercel.app/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-nimra-saeed/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](ITSMENIMRASAEED@GMAIL.COM)
 
@@ -158,9 +158,9 @@ A set of NLP models covering classification (fake news, spam) and text summariza
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Website-goniaa.pk-0F172A?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Website-goniaa.pk-0F172A?style=for-the-badge)](https://nimra-portfolio-beta.vercel.app/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-nimra-saeed/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ITSMENIMRASAEED@GMAIL.COM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](itsmenimrasaeed@gmail.com)
 
 </div>
 
