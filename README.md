@@ -1,9 +1,4 @@
-<!--
-  nimraa9090 — GitHub Profile README
-  Place this file in a repo named exactly "nimraa9090" (same as your username)
-  to make it render on your profile page: https://github.com/nimraa9090
--->
-
+<img src="./github-metrics-repository.svg" alt="Repository Metrics" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=180&section=header&text=Nimra%20%7C%20AI%20%26%20Full%20Stack%20Engineer&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Founder%20%26%20Solo%20Developer%20%40%20Goniaa&descAlignY=52&descSize=16" width="100%"/>
